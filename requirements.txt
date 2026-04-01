@@ -11,3 +11,4 @@ uvicorn
 geopy
 jupyter
 pyarrow
+streamlit-geolocation
