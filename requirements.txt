@@ -12,3 +12,4 @@ geopy
 jupyter
 pyarrow
 streamlit-geolocation
+sentence-transformers
