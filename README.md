@@ -12,7 +12,7 @@ Projekt využívá následující pipeline:
 
 V aktuální verzi vývoje je nutné upozornit, že výsledky generované na základě volného slovního popisu nedosahují optimální přesnosti. Tato skutečnost je způsobena dvěma klíčovými faktory v trénovacím procesu:
 
-    Trénovací dataset obsahuje výrazně vyšší zastoupení operačních symptomů na úkor běžných symptomů. To způsobuje predikční bias směrem k majoritním třídám.
+    Trénovací dataset obsahuje výrazně vyšší zastoupení předoperační péče a procedur na úkor běžných symptomů. To způsobuje predikční bias směrem k majoritním třídám.
 
     Celkový objem kvalitně anotovaných trénovacích dat je pro robustní generalizaci volného textu aktuálně nedostatečný.
 
