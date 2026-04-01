@@ -13,3 +13,4 @@ jupyter
 pyarrow
 streamlit-geolocation
 sentence-transformers
+deep-translator
